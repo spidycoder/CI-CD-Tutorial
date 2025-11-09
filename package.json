@@ -4,8 +4,10 @@
   "main": "index.js",
   "scripts": {
   "start": "node server.js",
-  "dev": "nodemon server.js"
+  "dev": "nodemon server.js",
+  "build": "echo \"No build needed for a Node.js JavaScript app\""
 }
+
 ,
   "keywords": [],
   "author": "",
